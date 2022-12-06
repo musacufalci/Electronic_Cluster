@@ -1,1 +1,3 @@
 # Electronic Cluster
+
+There are 3 pointer indicators, 30 led indicators and 1 LCD on the electronic indicator developed for tractors. With other peripheral modules on it, it can perform functions such as reading and writing data over CAN, displaying PTO values, and audible warning...
